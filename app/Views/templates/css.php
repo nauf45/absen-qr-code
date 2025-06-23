@@ -6,4 +6,4 @@
 <link rel="stylesheet" href="<?= base_url('assets/js/plugins/file-uploader/css/styles-1.0.css'); ?>" />
 
 <link rel="apple-touch-icon" sizes="76x76" href="<?= base_url('assets/img/apple-icon.png'); ?>">
-<link rel="icon" type="image/png" href="<?= base_url('assets/img/favicon.png'); ?>">
+<link rel="icon" type="image/png" href="<?= base_url('assets/img/logo.jpeg'); ?>">

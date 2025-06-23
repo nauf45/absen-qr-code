@@ -1,0 +1,2 @@
+user:admin
+pw:SK7qaXAZjnNU3hQ
